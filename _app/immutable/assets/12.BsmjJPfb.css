@@ -1,0 +1,1 @@
+@keyframes svelte-gygcht-fade-in{0%{opacity:0}to{opacity:1}}@keyframes svelte-gygcht-slide-in-from-bottom-2{0%{transform:translateY(8px)}to{transform:translateY(0)}}.animate-in.svelte-gygcht{animation:svelte-gygcht-fade-in .3s ease-out,svelte-gygcht-slide-in-from-bottom-2 .3s ease-out}@media(prefers-reduced-motion:reduce){.animate-in.svelte-gygcht{animation:none}}
